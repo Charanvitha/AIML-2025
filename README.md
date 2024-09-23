@@ -18,4 +18,5 @@
 3. [lab 03](https://github.com/Charanvitha/AIML-2025/blob/main/Lab03_AIML.ipynb)
 4. [lab 04](https://github.com/Charanvitha/AIML-2025/blob/main/LAB04_AIML.ipynb)
 5. [lab 05](https://github.com/Charanvitha/AIML-2025/blob/main/Lab05_AIML.ipynb)
-6. 
+6. [lab 06](https://github.com/Charanvitha/AIML-2025/blob/main/Lab06_AIML.ipynb)
+7. 
