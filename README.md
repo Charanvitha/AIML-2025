@@ -21,4 +21,5 @@
 6. [lab 06](https://github.com/Charanvitha/AIML-2025/blob/main/Lab06_AIML.ipynb)
 7. [lab 07](https://github.com/Charanvitha/AIML-2025/blob/main/Lab07_SVM.ipynb)
 8. [lab 08](https://github.com/Charanvitha/AIML-2025/blob/main/Lab08_Decision_Tree.ipynb)
-9. 
+9. [lab 09](https://github.com/Charanvitha/AIML-2025/blob/main/Lab09_AIML.ipynb)
+10. 
